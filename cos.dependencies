@@ -13,6 +13,12 @@
     "project": "ChameleonOS",
     "repository": "android_kernel_amazon_bowser-common",
     "target_path": "kernel/amazon/bowser-common"
+  },
+  {
+    "project": "KFire-Android",
+    "repository": "proprietary_vendor_amazon",
+    "target_path": "vendor/amazon",
+    "branch": "cm-10.1"
   }
 ]
 
