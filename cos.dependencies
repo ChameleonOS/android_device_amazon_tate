@@ -1,0 +1,27 @@
+[
+  {
+    "project": "ChameleonOS",
+    "repository": "android_device_amazon_bowser-common",
+    "target_path": "device/amazon/bowser-common"
+  },
+  {
+    "project": "CyanogenMod",
+    "repository": "android_device_amazon_omap4-common",
+    "target_path": "device/amazon/omap4-common",
+    "branch": "cm-10.2"
+  },
+  {
+    "project": "KFire-Android",
+    "repository": "android_kernel_amazon_bowser-common",
+    "target_path": "kernel/amazon/bowser-common",
+    "branch": "cm-10.2"
+  },
+  {
+    "project": "KFire-Android",
+    "repository": "proprietary_vendor_amazon",
+    "target_path": "vendor/amazon",
+    "branch": "cm-10.2"
+  }
+]
+
+
