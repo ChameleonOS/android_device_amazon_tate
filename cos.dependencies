@@ -12,7 +12,7 @@
   },
   {
     "project": "KFire-Android",
-    "repository": "android_kernel_amazon_bowser-common",
+    "repository": "kernel_omap_bowser-common",
     "target_path": "kernel/amazon/bowser-common",
     "branch": "cm-10.2"
   },
