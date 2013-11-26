@@ -5,7 +5,7 @@ $(call inherit-product, vendor/cos/config/common_full_tablet_wifionly.mk)
 $(call inherit-product, device/amazon/tate/full_tate.mk)
 $(call inherit-product, device/amazon/bowser-common/cos.mk)
 
-TARGET_SCREEN_WIDTH := 1280
+TARGET_SCREEN_WIDTH := 480
 TARGET_SCREEN_HEIGHT := 800
 
 PRODUCT_NAME := cos_tate
