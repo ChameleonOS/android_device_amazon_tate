@@ -8,19 +8,19 @@
     "project": "CyanogenMod",
     "repository": "android_device_amazon_omap4-common",
     "target_path": "device/amazon/omap4-common",
-    "branch": "cm-10.2"
+    "branch": "cm-11.0"
   },
   {
     "project": "KFire-Android",
     "repository": "kernel_omap_bowser-common",
     "target_path": "kernel/amazon/bowser-common",
-    "branch": "cm-10.2"
+    "branch": "cm-11.0"
   },
   {
-    "project": "KFire-Android",
+    "project": "TheMuppets",
     "repository": "proprietary_vendor_amazon",
     "target_path": "vendor/amazon",
-    "branch": "cm-10.2"
+    "branch": "cm-11.0"
   }
 ]
 
